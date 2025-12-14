@@ -65,7 +65,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 
 
-## 📱 Mobile App Development 📲
+### 📱 Mobile App Development 📲
 
 ### 🧹 CleanSphere – Urban Cleanliness Tracker
 <p>
@@ -97,7 +97,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 
 
-## 📊 Data Structures & Algorithms 🧩
+### 📊 Data Structures & Algorithms 🧩
 <p>
   <img src="https://img.shields.io/badge/DSA-FF6B6B?logo=leetcode&logoColor=white&style=for-the-badge" height="28">
 </p>
@@ -105,7 +105,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 
 
-## 🧰 Development Tools ⚙️
+### 🧰 Development Tools ⚙️
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="28">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" height="28">
