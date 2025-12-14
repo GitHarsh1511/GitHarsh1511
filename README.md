@@ -44,7 +44,6 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28">
 </p>
 
-
 ### 🌐 Frontend Development 🎨
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28">
@@ -54,7 +53,6 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="28">
 </p>
 
-
 ### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="28">
@@ -63,18 +61,11 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28">
 </p>
 
-
-
 ### 📱 Mobile App Development 📲
-
-### 🧹 CleanSphere – Urban Cleanliness Tracker
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="28">
 </p>
-
-
-
 
 ### 🔥 Backend, Databases & Auth 🔐
 <p>
@@ -84,9 +75,6 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
   <img src="https://img.shields.io/badge/SharedPreferences-4CAF50?style=for-the-badge" height="28">
 </p>
 
-
-
-
 ### 🤖 Machine Learning & Data Science 📊
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28">
@@ -95,15 +83,10 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
   <img src="https://img.shields.io/badge/XGBoost-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28">
 </p>
 
-
-
 ### 📊 Data Structures & Algorithms 🧩
 <p>
   <img src="https://img.shields.io/badge/DSA-FF6B6B?logo=leetcode&logoColor=white&style=for-the-badge" height="28">
 </p>
-
-
-
 
 ### 🧰 Development Tools ⚙️
 <p>
