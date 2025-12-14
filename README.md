@@ -4,7 +4,7 @@
 
 **`Computer Engineer | AI/ML Enthusiast | Data Analyst`**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-chauhan-web-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://harsh-chauhan-web-portfolio.vercel.app/)
 
 
 </div>
