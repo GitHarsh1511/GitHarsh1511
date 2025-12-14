@@ -56,7 +56,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 ## 🛠️ Technical Stack
 
----
+
 
 ### 🧠 Programming Languages 💻
 <table>
