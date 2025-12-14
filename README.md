@@ -196,9 +196,9 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 <div align="center">
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHarsh1511&show_icons=true&theme=radical&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHarsh1511&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
 
 </div>
 
