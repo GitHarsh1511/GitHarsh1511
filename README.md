@@ -18,7 +18,7 @@
 
 <td align="center" width="140">
   <a href="mailto:hdc1511@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/gmail-original.svg" height="40"/>
   </a><br/>
   <strong>Email</strong>
 </td>
@@ -32,7 +32,11 @@
 
 <td align="center" width="140">
   <a href="https://github.com/GitHarsh1511">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      height="40"
+      style="filter: invert(1);"
+    />
   </a><br/>
   <strong>GitHub</strong>
 </td>
