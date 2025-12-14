@@ -2,10 +2,10 @@
   
 # 👋 Hi, I'm Harsh Chauhan
 
-**`Flutter Developer | Frontend Developer | UI/UX Enthusiast`**
+**`Computer Engineer | AI/ML Enthusiast | Data Analyst`**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-View-6366F1?style=for-the-badge&logo=google-drive&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh-chauhan-web-portfolio.vercel.app/)
+
 
 </div>
 
