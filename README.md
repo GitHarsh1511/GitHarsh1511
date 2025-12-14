@@ -18,7 +18,7 @@
 
 <td align="center" width="140">
   <a href="mailto:hdc1511@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/gmail-original.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
   </a><br/>
   <strong>Email</strong>
 </td>
@@ -40,7 +40,6 @@
   </a><br/>
   <strong>GitHub</strong>
 </td>
-
 </tr>
 </table>
 
