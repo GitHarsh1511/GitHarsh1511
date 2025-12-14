@@ -1,28 +1,4 @@
-<div align="center">
-
-# 👋 Hi, I'm Harsh Chauhan
-
-**`Computer Engineer | AI/ML Enthusiast | Data Analyst`**
-
-<br/>
-
-<table align="center">
-<tr>
-
-<td align="center" width="160">
-  <a href="https://harsh-chauhan-web-portfolio.vercel.app/">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      height="45"
-    />
-  </a><br/>
-  <strong>Portfolio</strong>
-</td>
-
-</tr>
-</table>
-
-</div>
+<div align="center"> # 👋 Hi, I'm Harsh Chauhan **Computer Engineer | AI/ML Enthusiast | Data Analyst** [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://harsh-chauhan-web-portfolio.vercel.app/) </div>
 ---
 
 ## 📫 Connect With Me
