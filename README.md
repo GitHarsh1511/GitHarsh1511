@@ -17,9 +17,12 @@
 
 <td align="center" width="140">
   <a href="mailto:hdc1511@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+    <img
+      src="https://www.svgrepo.com/show/349379/gmail.svg"
+      height="40"
+    />
   </a><br/>
-  <strong>Email</strong>
+  <strong>Gmail</strong>
 </td>
 
 <td align="center" width="140">
