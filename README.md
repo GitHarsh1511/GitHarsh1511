@@ -26,15 +26,10 @@
 
 ## 🌟 About Me
 
-I'm a **Flutter & Frontend Developer** passionate about building  
-**beautiful, scalable, and user-friendly applications**.
+Proactive and detail-oriented Computer Engineering student with a strong passion for Artificial Intelligence and Machine Learning.
+Skilled in Python, data analysis, and model development, with a solid understanding of AI-driven problem-solving.
+Demonstrates strong analytical thinking, teamwork, and communication skills, with a commitment to continuous learning and innovation in technology.
 
-- 📱 Mobile App Developer using **Flutter & Dart**
-- 🌐 Frontend Developer using **Next.js, React & Tailwind CSS**
-- 🎨 Strong focus on **UI/UX & animations**
-- 🔐 Experience with **Firebase, SQLite & SharedPreferences**
-- 💼 Internship experience in **Mobile App Development**
-- 🚀 Always learning, building & improving
 
 ---
 
