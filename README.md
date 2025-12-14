@@ -13,14 +13,33 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+<table align="center">
+<tr>
 
-[![Email](https://img.shields.io/badge/Email-hdc1511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdc1511@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshchauhan115)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitHarsh1511)
+<td align="center" width="140">
+  <a href="mailto:hdc1511@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+  </a><br/>
+  <strong>Email</strong>
+</td>
 
+<td align="center" width="140">
+  <a href="https://www.linkedin.com/in/harshchauhan115">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a><br/>
+  <strong>LinkedIn</strong>
+</td>
 
-</div>
+<td align="center" width="140">
+  <a href="https://github.com/GitHarsh1511">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </a><br/>
+  <strong>GitHub</strong>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
