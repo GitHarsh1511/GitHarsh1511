@@ -206,16 +206,17 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 
 ## 🏆 Highlights & Experience
 
-- 📱 Internship in **Mobile App Development (Flutter & Dart)**
-- 🧠 Built multiple **authentication systems** from scratch
-- 🎨 Strong focus on **premium UI & UX**
-- 🚀 Deployed multiple apps & web projects
+- 📱 Completed an **internship in Mobile App Development**, building scalable applications using **Flutter & Dart**
+- 🔐 Designed and implemented **secure authentication flows** (login, registration, session handling) from scratch
+- 🎨 Specialized in crafting **premium UI/UX experiences** with smooth animations and modern design systems
+- 🚀 Successfully **developed, deployed, and maintained** multiple mobile apps and web projects
+
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=22c55e&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=GitHarsh1511&color=22c55e&style=flat-square)
 
 </div>
 
