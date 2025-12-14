@@ -63,7 +63,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28">
 </p>
 
----
+
 
 ## 📱 Mobile App Development 📲
 
@@ -74,7 +74,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 </p>
 
 
----
+
 
 ### 🔥 Backend, Databases & Auth 🔐
 <p>
@@ -85,7 +85,7 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 </p>
 
 
----
+
 
 ### 🤖 Machine Learning & Data Science 📊
 <p>
@@ -96,14 +96,14 @@ Demonstrates strong analytical thinking, teamwork, and communication skills, wit
 </p>
 
 
----
+
 ## 📊 Data Structures & Algorithms 🧩
 <p>
   <img src="https://img.shields.io/badge/DSA-FF6B6B?logo=leetcode&logoColor=white&style=for-the-badge" height="28">
 </p>
 
 
----
+
 
 ## 🧰 Development Tools ⚙️
 <p>
